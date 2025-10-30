@@ -9,7 +9,7 @@
 - 🏆 Award: 2023 Commercial Times Digital Finance Award - Innovation Award for Grid Trading Bot
 - 📱 Participated in commercial products: **HTC Vive Cosmos**, **Google Wear OS**, **HTC Butterfly/One X/M8**
 - 🌱 Expertise: Trading systems, Linux Kernel, Firmware, embedded systems, computer vision
-- 💬 Tech Stack: C/C++, Rust, Golang, Python, GCP, AWS, Kubernetes, Docker, Kafka
+- 💬 Tech Stack: C/C++, Rust, Zig, Golang, Python, GCP, AWS, Kubernetes, Docker, Kafka
  
 <br/>  
 
