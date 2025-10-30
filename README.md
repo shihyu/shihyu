@@ -4,9 +4,10 @@
 
 # Hi there, I'm Jason 👋
 
-- 🔭 I'm currently working on market-making systems and grid trading strategies  
+- 🔭 I'm currently working on market-making systems and grid trading strategies
 - 💼 Building automated trading architectures, cross-exchange arbitrage, and system-level software
 - 🏆 Award: 2023 Commercial Times Digital Finance Award - Innovation Award for Grid Trading Bot
+- 📱 Participated in commercial products: **HTC Vive Cosmos**, **Google Wear OS**, **HTC Butterfly/One X/M8**
 - 🌱 Expertise: Trading systems, Linux Kernel, Firmware, embedded systems, computer vision
 - 💬 Tech Stack: C/C++, Rust, Zig, Python, Golang, Java
  
@@ -66,18 +67,21 @@
 
 ### 📱 Mobile System Development
 **Android Framework & Linux Kernel**
+- Participated in development of commercial products: **HTC Butterfly**, **HTC One X**, **HTC One M8**
 - Developed Android Framework components and Linux Kernel modules
 - Implemented power management systems and low-level drivers
 - Worked on system optimization and performance tuning
 
 ### 🥽 VR System Development
 **Computer Vision & Tracking Algorithms**
+- Participated in development of **HTC Vive Cosmos** VR headset
 - Developed image tracking and positioning algorithms for VR headsets
 - Implemented 6DoF tracking systems with sensor fusion
 - Worked on real-time computer vision processing
 
 ### ⌚ Wearable Device Development
 **Embedded Systems & Testing Tools**
+- Participated in development of **Google Wear OS** smartwatch platforms
 - Developed GPS testing frameworks for smartwatch platforms
 - Implemented JNI integration and Android Framework components
 - Built automated testing and validation systems
@@ -103,10 +107,11 @@
 - Multi-exchange liquidity provision
 - Real-time spread optimization and inventory management
 
-### VR Headset Image Tracking
+### HTC Vive Cosmos - VR Tracking System
 - VR headset positioning and tracking algorithms
 - Computer vision and sensor fusion
 - Real-time 6DoF tracking system
+- Commercial product shipped to market
 
 <br/>
 
